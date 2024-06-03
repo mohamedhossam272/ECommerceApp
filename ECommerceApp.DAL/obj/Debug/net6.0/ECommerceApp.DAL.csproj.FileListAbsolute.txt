@@ -1,0 +1,12 @@
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\bin\Debug\net6.0\ECommerceApp.DAL.deps.json
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\bin\Debug\net6.0\ECommerceApp.DAL.dll
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\bin\Debug\net6.0\ECommerceApp.DAL.pdb
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ECommerceApp.DAL.csproj.AssemblyReference.cache
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ECommerceApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ECommerceApp.DAL.AssemblyInfoInputs.cache
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ECommerceApp.DAL.AssemblyInfo.cs
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ECommerceApp.DAL.csproj.CoreCompileInputs.cache
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ECommerceApp.DAL.dll
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\refint\ECommerceApp.DAL.dll
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ECommerceApp.DAL.pdb
+D:\Eng Ahmed Khaled\MVCProjects\ECommerceApp\ECommerceApp.DAL\obj\Debug\net6.0\ref\ECommerceApp.DAL.dll

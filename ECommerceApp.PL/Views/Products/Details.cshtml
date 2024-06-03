@@ -1,0 +1,41 @@
+﻿@model ECommerceApp.DAL.Entities.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h1>Product Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Name
+        </dd>
+        <dt class="col-sm-2">
+            Price
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Price
+        </dd>
+        <dt class="col-sm-2">
+            Description
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Description
+        </dd>
+        <dt class="col-sm-2">
+            Image URL
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Model.ImageUrl" alt="@Model.Name" style="max-width: 100%;" />
+        </dd>
+    </dl>
+</div>
+<div>
+    <a href="@Url.Action("Index")">Back to List</a>
+</div>
